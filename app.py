@@ -93,10 +93,8 @@ elif menu == "Tim KKN & Kontak":
     
     # Daftar Anggota Tim
     tim = [
-        {"Nama": "Ahmad Fauzi", "Jabatan": "Ketua Kelompok", "Program Studi": "S1 Teknik Sipil"},
-        {"Nama": "Siti Rahma", "Jabatan": "Sekretaris", "Program Studi": "S1 Administrasi Publik"},
-        {"Nama": "Rian Hidayat", "Jabatan": "Bendahara", "Program Studi": "S1 Akuntansi"},
-        {"Nama": "Dewi Lestari", "Jabatan": "Divisi Humas & Dok", "Program Studi": "S1 Ilmu Komunikasi"}
+        {"Nama": "Afwanda Rizqi", "Jabatan": "Ketua Kelompok", "Program Studi": "S1 Teknik Informatika"},
+        {"Nama": "Reni Dearni", "Jabatan": "Anggota", "Program Studi": "S1 Teknik Informatika"},
     ]
     
     cols = st.columns(4)
