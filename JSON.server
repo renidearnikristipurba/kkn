@@ -1,0 +1,101 @@
+{
+  "kkn_info": {
+    "lokasi": {
+      "dusun": "Nagrak",
+      "rt": "004B",
+      "rw": "001",
+      "desa": "Nagrak",
+      "kecamatan": "Nagrak",
+      "kabupaten": "Bogor",
+      "provinsi": "Jawa Barat"
+    },
+    "periode": {
+      "tahun": 2026,
+      "tanggal_mulai": "2026-05-5",
+      "tanggal_selesai": "2026-07-16",
+      "durasi_hari": 60
+    },
+    "posko_utama": "Rumah Bapak Ketua RT 004B RW 001, Dusun Nagrak"
+  },
+  "profil_wilayah": {
+    "total_kepala_keluarga": 45,
+    "mata_pencaharian_dominan": [
+      "Pertanian Lokal",
+      "Wiraswasta / UMKM Rumah Tangga",
+      "Pekerja Komuter"
+    ],
+    "potensi_wilayah": [
+      "Semangat gotong royong warga tinggi",
+      "Lahan pekarangan produktif luas",
+      "Adanya produk kerajinan tangan lokal"
+    ],
+    "isu_prioritas": [
+      "Kurangnya fasilitas literasi digital anak sekolah",
+      "Pemasaran produk UMKM masih konvensional",
+      "Optimalisasi sistem pemilahan sampah rumah tangga"
+    ]
+  },
+  "tim_kkn": {
+    "kelompok": "Kelompok KKN Nagrak 04",
+    "universitas": "Universitas Terbuka Mandiri",
+    "anggota": [
+      {
+        "id_mahasiswa": "MHS001",
+        "nama": "Afwanda Rizqi",
+        "jabatan": "Ketua Kelompok",
+        "program_studi": "S1 Teknik Informatika",
+        "kontak": "0888-0965-1995"
+      },
+      {
+        "id_mahasiswa": "MHS002",
+        "nama": "Reni Dearni Kristi Purba",
+        "jabatan": "Anggota KKN",
+        "program_studi": "S1 Teknik Informatika",
+        "kontak": "0813-9973-0424"
+      },
+  
+    ]
+  },
+  "program_kerja": [
+    {
+      "id_proker": "PRK001",
+      "nama_program": "Pojok Literasi & Taman Baca Digital",
+      "bidang": "Pendidikan",
+      "sasaran": "Anak-anak usia sekolah di RT 004B",
+      "status": "Selesai",
+      "progress_persen": 100,
+      "anggaran_rp": 1500000,
+      "penanggung_jawab": "Ahmad Fauzi"
+    },
+    {
+      "id_proker": "PRK002",
+      "nama_program": "Penyuluhan PHBS dan Revitalisasi Posyandu",
+      "bidang": "Kesehatan",
+      "sasaran": "Ibu, Balita, dan Lansia RW 001",
+      "status": "Sedang Berjalan",
+      "progress_persen": 75,
+      "anggaran_rp": 850000,
+      "penanggung_jawab": "Siti Rahma"
+    },
+    {
+      "id_proker": "PRK003",
+      "nama_program": "Workshop Pemasaran Digital Produk UMKM Nagrak",
+      "bidang": "Ekonomi",
+      "sasaran": "Pelaku usaha mikro di RT 004B",
+      "status": "Belum Mulai",
+      "progress_persen": 0,
+      "anggaran_rp": 1200000,
+      "penanggung_jawab": "Dewi Lestari"
+    },
+    {
+      "id_proker": "PRK004",
+      "nama_program": "Kerja Bakti Massal & Plonisasi Jalan Lingkungan",
+      "bidang": "Lingkungan",
+      "sasaran": "Fasilitas umum dan jalan RT 004B",
+      "status": "Selesai",
+      "progress_persen": 100,
+      "anggaran_rp": 500000,
+      "penanggung_jawab": "Budi Santoso"
+    }
+  ]
+}
